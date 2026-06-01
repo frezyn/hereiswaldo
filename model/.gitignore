@@ -1,0 +1,15 @@
+# PyTorch models
+*.pth
+
+# Dataset
+images/
+annotations/
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtualenv
+venv/
+python/
+.env

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>DistRota4_jpg.rf.2845918c139e9e17c7690d97f38f0c41.jpg</filename>
+	<path>DistRota4_jpg.rf.2845918c139e9e17c7690d97f38f0c41.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1272</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>waldo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1458</xmin>
+			<xmax>1483</xmax>
+			<ymin>248</ymin>
+			<ymax>276</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>FlouRota7_jpg.rf.7480ef9586f5447d804591d3e553f459.jpg</filename>
+	<path>FlouRota7_jpg.rf.7480ef9586f5447d804591d3e553f459.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>1949</width>
+		<height>1419</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>waldo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>793</xmin>
+			<xmax>831</xmax>
+			<ymin>937</ymin>
+			<ymax>988</ymax>
+		</bndbox>
+	</object>
+</annotation>

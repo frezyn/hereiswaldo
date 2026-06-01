@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>CropFlouNouveau10_jpg.rf.8fa58c24bacc5e9965be79d6b586f14d.jpg</filename>
+	<path>CropFlouNouveau10_jpg.rf.8fa58c24bacc5e9965be79d6b586f14d.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>579</width>
+		<height>1377</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>waldo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>369</xmin>
+			<xmax>405</xmax>
+			<ymin>1032</ymin>
+			<ymax>1079</ymax>
+		</bndbox>
+	</object>
+</annotation>

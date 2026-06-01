@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>DistFlou4_jpg.rf.4bde41496bb2928d4ffe7ed6076dc3c2.jpg</filename>
+	<path>DistFlou4_jpg.rf.4bde41496bb2928d4ffe7ed6076dc3c2.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1272</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>waldo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1485</xmin>
+			<xmax>1508</xmax>
+			<ymin>280</ymin>
+			<ymax>307</ymax>
+		</bndbox>
+	</object>
+</annotation>

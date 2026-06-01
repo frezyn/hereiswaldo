@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>imagens</folder>
+	<filename>27.jpg</filename>
+	<path>/home/v/Desktop/whereswaldopytorch/imagens/27.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1286</width>
+		<height>946</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>waldo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>518</ymin>
+			<xmax>126</xmax>
+			<ymax>575</ymax>
+		</bndbox>
+	</object>
+</annotation>

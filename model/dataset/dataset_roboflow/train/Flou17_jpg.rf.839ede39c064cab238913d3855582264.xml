@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Flou17_jpg.rf.839ede39c064cab238913d3855582264.jpg</filename>
+	<path>Flou17_jpg.rf.839ede39c064cab238913d3855582264.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>1599</width>
+		<height>1230</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>waldo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>752</xmin>
+			<xmax>773</xmax>
+			<ymin>251</ymin>
+			<ymax>282</ymax>
+		</bndbox>
+	</object>
+</annotation>

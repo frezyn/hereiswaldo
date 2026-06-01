@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Rota1_jpg.rf.e3271f7149a7c396b1a42f7608ec557f.jpg</filename>
+	<path>Rota1_jpg.rf.e3271f7149a7c396b1a42f7608ec557f.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1251</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>waldo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>710</xmin>
+			<xmax>747</xmax>
+			<ymin>502</ymin>
+			<ymax>553</ymax>
+		</bndbox>
+	</object>
+</annotation>

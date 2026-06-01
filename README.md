@@ -2,6 +2,11 @@
 
 Este repositório contém o projeto que usei para estudar redes convolucionais aplicadas à identificação de padrões em imagens. Decidi utilizar o desafio "Onde Está o Waldo?" por causa de uma tentativa que fiz algumas semanas atrás, mas que não teve um resultado muito bom.
 
+<p align="center">
+  <img src="./files/demo.gif" alt="Demo" width="700">
+</p>
+
+
 Então, eu queria provar para mim mesmo que, estudando mais sobre o tema, conseguiria concluir o projeto. E, aparentemente, consegui! Um modelo usando RCNN que encontra o Waldo em uma multidão! 😄
 ## Estrutura do Projeto
 

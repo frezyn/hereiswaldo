@@ -7,7 +7,7 @@ Então, eu queria provar para mim mesmo que, estudando mais sobre o tema, conseg
   <img src="./files/demo.gif" alt="Demo" width="700">
 </p>
 
-> Só lembrando que este projeto não tem como objetivo invalidar o trabalho enviado no hackathon. A ideia é revisitar o desafio com mais experiência, corrigindo problemas que identifiquei durante o desenvolvimento, aprendendo com os erros que cometi ao longo da competição e aprofundando conhecimentos em áreas nas quais percebi que ainda tinha lacunas.
+> Só lembrando que este projeto não tem como objetivo invalidar o trabalho enviado no hackathon. A ideia foi cobrir lacunas de conhecimento que identifiquei durante o hackathon e, com isso, tentar novamente realizar o desafio.
 
 ## Estrutura do Projeto
 

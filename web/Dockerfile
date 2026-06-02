@@ -20,11 +20,12 @@ FROM base AS builder
 WORKDIR /app
 RUN npm install -g pnpm@10.33.4
 COPY --from=deps /app/node_modules ./node_modules
+COPY --from=deps /app/apps/web/node_modules ./apps/web/node_modules
 COPY --from=deps /app/packages ./packages
 COPY . .
 
 # Build Next.js application
-WORKDIR /app/apps/web
+WORKDIR /app
 RUN pnpm run build
 
 # Production image, copy all the files and run next
